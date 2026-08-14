@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gyyi0718.github.io/alpha-or-noise/sitemap.xml

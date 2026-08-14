@@ -1,0 +1,21 @@
+# 생성기가 만드는 공개 파일만 허용한다. 그 외(로그·데이터)가 실수로 들어와도 막는다.
+*
+!index.html
+!records.html
+!sitemap.xml
+!robots.txt
+!s
+!s/*.html
+!binance
+!binance/*.html
+!upbit
+!upbit/*.html
+!bithumb
+!bithumb/*.html
+!binance/s
+!binance/s/*.html
+!upbit/s
+!upbit/s/*.html
+!bithumb/s
+!bithumb/s/*.html
+!.gitignore
